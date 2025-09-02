@@ -1,7 +1,0 @@
-/* Masque complètement les numéros #1, #2... */
-.node__order {
-    display: none !important;
-    width: 0 !important;
-    margin: 0 !important;
-    padding: 0 !important;
-}
